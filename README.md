@@ -1,5 +1,6 @@
-<img src="https://flagcdn.com/w40/us.png" alt="English" width="30"/>  
-💎 Diamond Price Prediction Project
+<img src="https://flagcdn.com/w40/us.png" alt="English" width="30"/> English
+<br>
+<h3>💎 Diamond Price Prediction Project</h3>
 This project aims to predict the price of diamonds using machine learning in Python. A simple Linear Regression model was created using the diamonds dataset from the Seaborn library.
 
 🚀 Project Goal
@@ -52,10 +53,11 @@ R² Score: 0.85 (This value indicates that the model explains approximately 85% 
 
 These results show that the carat variable is quite effective in predicting the price of a diamond.
 
-<br><br><br><br>
+<br><br><br>
 
-<img src="https://flagcdn.com/w40/tr.png" alt="Turkish" width="30"/> 
-💎 Elmas Fiyat Tahmini Projesi
+<img src="https://flagcdn.com/w40/tr.png" alt="Turkish" width="30"/> Türkçe
+<br>
+<h3>💎 Elmas Fiyat Tahmini Projesi</h3>
 Bu proje, Python'da makine öğrenimi kullanarak elmasların fiyatını tahmin etmeyi amaçlamaktadır. Projede, Seaborn kütüphanesinden alınan diamonds veri seti kullanılarak basit bir Lineer Regresyon modeli oluşturulmuştur.
 
 🚀 Proje Amacı
